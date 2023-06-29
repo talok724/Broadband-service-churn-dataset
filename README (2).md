@@ -23,4 +23,5 @@ Predictive modeling: The churn customer dataset can be utilized to build predict
 Retention strategies: Understanding the dataset can aid in the development of effective retention strategies. By analyzing the characteristics of customers who have churned, businesses can identify areas for improvement and implement targeted actions to retain customers who exhibit similar traits.
 
 Acknowledgments
+
 We would like to acknowledge the source of this churn customer dataset and express our gratitude to Omkar Dicholkar that collected and made it publicly available. Without their efforts, this dataset would not be accessible for analysis and research purposes.
