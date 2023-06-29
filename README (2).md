@@ -24,4 +24,4 @@ Retention strategies: Understanding the dataset can aid in the development of ef
 
 Acknowledgments
 
-We would like to acknowledge the source of this churn customer dataset and express our gratitude to Omkar Dicholkar that collected and made it publicly available. Without their efforts, this dataset would not be accessible for analysis and research purposes.
+I would like to acknowledge the source of this churn customer dataset and express our gratitude to Omkar Dicholkar that collected and made it publicly available. Without their efforts, this dataset would not be accessible for analysis and research purposes.
